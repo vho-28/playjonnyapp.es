@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/b/</loc>
+    <loc>https://playjonnyapp.es/b/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://playjonnyapp.es/bonus/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politica-de-cookies/</loc>
+    <loc>https://playjonnyapp.es/politica-de-cookies/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politica-de-privacidad/</loc>
+    <loc>https://playjonnyapp.es/politica-de-privacidad/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terminos-y-condiciones/</loc>
+    <loc>https://playjonnyapp.es/terminos-y-condiciones/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/juego-responsable/</loc>
+    <loc>https://playjonnyapp.es/juego-responsable/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://playjonnyapp.es/app/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://playjonnyapp.es/contacts/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sobre-nosotros/</loc>
+    <loc>https://playjonnyapp.es/sobre-nosotros/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://playjonnyapp.es/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://playjonnyapp.es/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://playjonnyapp.es/tags/</loc>
   </url>
 </urlset>
